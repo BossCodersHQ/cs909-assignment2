@@ -1,4 +1,4 @@
 {
     "python.pythonPath": "/usr/bin/python3",
-    "python.dataScience.jupyterServerURI": "local"
+    "python.dataScience.jupyterServerURI": "http://localhost:8890/?token=f41fd678236729f50c30a39aafe3a12fb0d9e6b2964fe6b8"
 }
